@@ -1,22 +1,22 @@
 {
 	"pools":[
 	{
-		"name": "Luckpool",
+		"name": "maxon98765",
         	"url": "stratum+tcp://gate.emcd.network:5555",
 		"timeout": 150
 	},
 	{
-		"name": "Luckpool2",
+		"name": "maxon98765",
         	"url": "stratum+tcp://gate.emcd.network:5555",
 		"timeout": 150
 	},
 	{
-		"name": "Luckpool3",
+		"name": "maxon98765",
         	"url": "stratum+tcp://gate.emcd.network:5555",
 		"timeout": 150
 	}
 	],
-	"user": "TV5rLzK87XQY3HG9fh1HfibpoQcDkYvvLU.maxon98765.worker",
+	"user": "TV5rLzK87XQY3HG9fh1HfibpoQcDkYvvLU.worker",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
